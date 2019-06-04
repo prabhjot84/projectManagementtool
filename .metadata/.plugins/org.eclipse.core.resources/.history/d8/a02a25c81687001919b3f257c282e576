@@ -22,13 +22,13 @@ public class ProjectController {
 
 
     @PostMapping("")
-    public ResponseEntity<?> createNewProject(@Valid @RequestBody Project project, BindingResult result){
+    public ResponseEntity<Project> createNewProject(@Valid @RequestBody Project project, BindingResult result){
     	
     	if(result.hasErrors()) {
-    		return new ResponseEntity<String>("Invalid Project Object", HttpStatus.BAD_REQUEST);
+    		return new ResponseEntity<String>(status: "Invalid Project Object", HttpStatus.BAD_REQUEST);
     	}
         
     	Project project1 = projectService.saveOrUpdateProject(project);
-        return new ResponseEntity<Project>(project1, HttpStatus.CREATED);
+        return new ResponseEntity<Project>(project, HttpStatus.CREATED);
     }
 }
