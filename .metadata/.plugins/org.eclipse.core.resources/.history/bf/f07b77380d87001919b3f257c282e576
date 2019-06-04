@@ -1,0 +1,12 @@
+package repositories;
+
+import org.springframework.stereotype.Repository;
+import org.springframework.data.repository.CrudRepository;
+import domain.Project;
+
+@Repository
+public interface ProjectRepository extends CrudRepository<Project, Long> {
+	
+	
+
+}

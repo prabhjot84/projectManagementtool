@@ -1,0 +1,10 @@
+package repositories;
+
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.data.*;
+import domain.Project;
+
+@ResponseBody
+public class ProjectRepository extends CrudRepository<Project, Long> {
+
+}
