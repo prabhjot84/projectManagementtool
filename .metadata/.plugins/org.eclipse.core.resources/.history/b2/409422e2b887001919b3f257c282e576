@@ -1,0 +1,5 @@
+package PPMT.exceptions;
+
+public class ProjectIdExceptionResponse {
+
+}
