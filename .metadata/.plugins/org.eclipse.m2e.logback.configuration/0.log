@@ -1521,3 +1521,38 @@ java.io.FileNotFoundException: C:\Users\PrabhjotS\Documents\PPMT\projectManageme
 2019-06-05 09:38:22,536 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-05 09:38:22,538 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-05 09:38:22,539 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 09:59:47,976 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 09:59:47,983 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 09:59:47,990 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 09:59:47,993 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 09:59:47,994 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:01:20,946 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:01:20,949 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:01:20,952 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:01:20,953 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:01:20,953 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:01:46,943 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:01:46,944 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:01:46,948 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:01:46,950 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:01:46,950 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:02:26,249 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:02:26,252 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:02:26,258 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:02:26,260 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:02:26,260 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:05:14,090 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:05:14,093 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:05:14,096 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:05:14,098 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:05:14,098 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:07:02,959 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:07:02,963 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:07:02,966 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:07:02,970 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:07:02,971 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources
+2019-06-05 10:07:09,931 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:07:09,932 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-05 10:07:09,935 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-05 10:07:09,937 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-05 10:07:09,937 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PrabhjotS\Documents\PPMT\projectManagementtool\PPMT\src\test\resources

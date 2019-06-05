@@ -9,7 +9,6 @@ import javax.persistence.Id;
 import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -21,7 +20,6 @@ public class Project {
 	private Long id;
 	@NotBlank(message = "Project name is required")
 	private String projectName;
-	@Size(min=4, max=5, message = "Please use 4 to 5 characters")
 	@NotBlank(message = "Project identifier is required")
 	private String projectIdentifier;
 	@NotBlank(message = "Project description is required")
