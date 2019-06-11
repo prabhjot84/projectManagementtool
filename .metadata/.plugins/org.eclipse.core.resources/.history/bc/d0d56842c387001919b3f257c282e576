@@ -1,0 +1,13 @@
+package PPMT.repositories;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import PPMT.domain.Project;
+
+@Repository
+public interface ProjectRepository extends CrudRepository<Project, Long> {
+	
+	
+
+}
