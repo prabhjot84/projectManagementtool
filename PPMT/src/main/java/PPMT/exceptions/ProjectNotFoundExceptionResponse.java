@@ -1,6 +1,5 @@
 package PPMT.exceptions;
 
-
 public class ProjectNotFoundExceptionResponse {
 
     private String ProjectNotFound;

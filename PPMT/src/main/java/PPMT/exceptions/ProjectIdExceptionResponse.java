@@ -1,21 +1,18 @@
 package PPMT.exceptions;
 
-
 public class ProjectIdExceptionResponse {
 
-	private String ProjectIdentifier;
-	
-	public ProjectIdExceptionResponse(String projectIdentifier) {
-		this.ProjectIdentifier = projectIdentifier;
-	}
+    private String projectIdentifier;
 
-	public String getProjectIdentifier() {
-		return ProjectIdentifier;
-	}
+    public ProjectIdExceptionResponse(String projectIdentifier) {
+        this.projectIdentifier = projectIdentifier;
+    }
 
-	public void setProjectIdentifier(String projectIdentifier) {
-		ProjectIdentifier = projectIdentifier;
-	}
-	 
-	 
+    public String getProjectIdentifier() {
+        return projectIdentifier;
+    }
+
+    public void setProjectIdentifier(String projectIdentifier) {
+        this.projectIdentifier = projectIdentifier;
+    }
 }
